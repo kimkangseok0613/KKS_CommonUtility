@@ -1,0 +1,13 @@
+{
+  "name": "com.kks.commonutility",
+  "version": "1.0.0",
+  "displayName": "kks commonutility",
+  "description": "common manager classs",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.inputsystem": "1.7.0"
+ },
+  "author": {
+    "name": "Kim Kang Seok",
+    }
+}
